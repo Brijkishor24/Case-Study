@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background: linear-gradient(#10076C 0%,#C18E6F 100%);
+    color: white;
+}
+#test-image1 img{
+ width: 250px;
+ height:260px;
+}
+#test-image2 img{
+    width:250px;
+    height:260px;
+}
+#test-image3 img{
+    width:250px;
+    height:260px;
+}
+#test-image4 img{
+    width:250px;
+    height:260px;
+}
+#test-image5 img{
+    width:250px;
+    height:260px;
+}
+h1{
+    font-size:25px;
+}
+.result{
+    font-size:30%;
+}
+.result u{
+    font-size:30px;
+}
